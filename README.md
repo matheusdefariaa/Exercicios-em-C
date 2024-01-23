@@ -1,3 +1,3 @@
 # Exercícios em C
-## Repositório feito conter a minha progressão na linguagem
+## Repositório feito para conter a minha progressão na linguagem
 
